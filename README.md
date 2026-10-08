@@ -76,7 +76,7 @@ It:
 * Stores only signed short-lived tokens in the browser.
 * Uses the service key exclusively on the server.
 * Continues to call `create_sale` and `restock_product` for sales and restocks.
-
-This project is only for learning purpose
 * Keeps stock changes atomic and audited.
 * Continues to use the existing public `product-images` bucket for product photos.
+
+This project is only for learning purpose
